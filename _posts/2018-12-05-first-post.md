@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to nara's blog!!"
+
 date: 2018-12-05 17:18:00 -0400
 categories: jekyll update
 ---
